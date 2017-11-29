@@ -23,6 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:fontFamily="sans-serif-light"
+        android:textStyle="bold"
         android:text="Happy Birthday,Elsa"
         android:textColor="@android:color/white"
         android:textSize="36sp" />
@@ -37,6 +38,7 @@
         android:fontFamily="sans-serif-light"
         android:text="From David"
         android:textColor="@android:color/white"
+        android:textStyle="bold"
         android:textSize="36sp" />
 </RelativeLayout>
 
